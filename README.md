@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PEDRAM/PEDRAM/main/assets/banner.png" alt="PEDRAM" />
+  <img src="https://raw.githubusercontent.com/pedramkhademi619/pedramkhademi619/main/assets/banner.png" alt="PEDRAM" />
 </p>
 
 
