@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PEDRAM/PEDRAM/main/assets/banner.png" alt="PEDRAM" />
+</p>
+
+
 # Hey there! 👋 I'm Pedram
+
 
 I wander between numbers and code. By day, a math student trying to make sense of the universe;  
 by night, a software engineer chasing bugs and building apps.  
