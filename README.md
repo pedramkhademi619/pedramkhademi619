@@ -6,25 +6,35 @@
 
 # 👋 Hey there, I'm Pedram  
 
-Math student • Developer • Builder of digital systems  
+Math student • Developer • Algorithm Designer  
 Exploring how logic, code, and mathematics connect.  
-By day, I chase formulas; by night, I chase bugs and ideas.
+By day, I chase formulas; by night, I chase bugs and algorithms.
 
-💻 Fluent in: **Flutter**, **Dart**, **Python**, **C++**  
-🧠 Experienced with **Hive**, **GetIt**, **Flutter Bloc**, **Sqflite**, **MySQL**, **Sockets**, **Tkinter**, **PyQt5**, **Paint**, and **Requests**  
-🎨 Passionate about neon-themed dark UIs, async systems, and turning abstract maths into concrete functions.
+💻 Fluent in **Flutter**, **Dart**, **Python**, **C**, **C++**  
+📊 Skilled in **Hive**, **GetIt**, **Flutter Bloc**, **Sqflite**, **MySQL**, **Sockets**, **Tkinter**, **PyQt5**, **Paint**, **Requests**, **Maple**, **Minitab**, and mathematical modeling  
+⚙️ Falling somewhere between theoretical math and system architecture — where structure meets creativity.  
 
 💡 Motto: *“If it compiles, it’s worth celebrating!”*
 
 ---
 
 ## 🚀 Current Mission
-Creating cross‑platform apps and intelligent services that visualize logic and empower users.  
-Always learning, always shipping — one neuron‑powered commit at a time ⚡
+Building robust cross‑platform apps and algorithmic systems powered by clean logic,  
+bridging mathematics with software engineering, one neon line of code at a time ⚡
 
 ---
 
-## 🧠 Tech Stack Highlights
+## 🧠 Mathematics & Algorithms
+I design and implement algorithms for:  
+- Numerical analysis and computational modeling  
+- Symbolic math and applied mechanics using **Maple**  
+- Statistical and regression analysis with **Minitab**  
+- Matrix‑based logic and optimization models in **Python** and **C++**  
+My mathematical mindset guides how I architect code — logically, symmetrically, and efficiently.
+
+---
+
+## 🛠️ Tech Stack
 <div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -33,23 +43,15 @@ Always learning, always shipping — one neuron‑powered commit at a time ⚡
   <img src="https://img.shields.io/badge/Hive-FBBD18?style=for-the-badge&logo=hive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Sqflite-FFA000?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-ffdd54?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyQt5-41cd52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-019733?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sockets-0A66C2?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-019733?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyQt5-41cd52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maple-FF8000?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minitab-006B3F?style=for-the-badge&logo=minitab&logoColor=white"/>
 </div>
-
----
-
-## 📂 Featured Projects
-| Repo | Description | Stack |
-|------|--------------|--------|
-| [replyon](https://github.com/pedramkhademi619/replyon) | Flutter admin panel using GetX architecture and neon circuits | Flutter, Dart, Hive, GetX |
-| [pedram-utils](https://github.com/pedramkhademi619/pedram-utils) | Python networking toolkit with session persistence | Python, Requests, MySQL |
-| [matrix-engine](https://github.com/pedramkhademi619/cpp-matrix) | Mathematical simulation engine written in modern C++ | C++17 |
-| [gui-tools](https://github.com/pedramkhademi619/gui-tools) | PyQt5 and Tkinter utilities for cross‑platform desktop apps | Python, PyQt5, Tkinter |
-
-> 🔗 See all my work at [github.com/pedramkhademi619](https://github.com/pedramkhademi619)
 
 ---
 
@@ -58,13 +60,6 @@ Always learning, always shipping — one neuron‑powered commit at a time ⚡
   <img src="https://github-readme-stats.vercel.app/api?username=pedramkhademi619&show_icons=true&theme=chartreuse-dark&hide_border=false&border_radius=10" width="400" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkhademi619&layout=compact&theme=chartreuse-dark&hide_border=false&border_radius=10" width="400" height="165"/>
 </p>
-
----
-
-## ⚙️ Development Mindset
-I combine **logic + creativity** from mathematics into efficient, clean‑coded systems.  
-My workflow leans toward modular architecture, event‑driven design, and reusable atomic components.  
-When something breaks? I stare at it long enough — until enlightenment happens. 👁
 
 ---
 
