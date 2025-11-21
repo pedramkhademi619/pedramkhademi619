@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋 I'm Pedram
 
-<!--
-**pedramkhademi619/pedramkhademi619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I wander between numbers and code. By day, a math student trying to make sense of the universe;  
+by night, a software engineer chasing bugs and building apps.  
 
-Here are some ideas to get you started:
+I speak **Flutter**, **C++**, and **Python** fluently,  
+and I have a weakness for music, books, and long walks that clear the mind.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe in solving problems, creating things that matter,  
+and learning something new every single day.  
+
+---
+
+## 🚀 Current Mission
+Turning ideas into apps, one line of code at a time.  
+Sometimes fueled by coffee, sometimes by sheer stubbornness.  
+
+---
+
+## 🎯 Fun Facts
+- Permanent state: tired but coding 😅  
+- Life motto: "If it compiles, it's worth celebrating!"  
+- Favorite debugging method: stare at the screen until it works  
+
+---
+
+## 📬 Connect with Me
+- [GitHub](https://github.com/pedramkhademi619)  
+- Email: `pedramkhademi619@gmail.com`
