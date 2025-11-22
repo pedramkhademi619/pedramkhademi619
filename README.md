@@ -56,7 +56,7 @@ My mathematical mindset guides how I architect code — logically, symmetrically
 ---
 
 ## 📊 GitHub Stats
-<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;">
+<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=pedramkhademi619&show_icons=true&theme=chartreuse-dark&hide_border=false&border_radius=10" width="500" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkhademi619&layout=compact&theme=chartreuse-dark&hide_border=false&border_radius=10" width="500" height="165"/>
 </p>
