@@ -11,6 +11,7 @@ Math student • Developer • Algorithm Designer<br>Exploring how logic, code, 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pdrwm_jt619) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Pedram Khademi) 
 
+
 # 💻 Tech Stack
 
 ## Languages
